@@ -37,4 +37,4 @@ void GoalKeeper::moveToBall(Estado BallState)
 	}
 	cout << "Goleiro defendeu a bola!" << endl;
 }
-//Ola está tudo bem
+//Ola está tudo bem, não está não
